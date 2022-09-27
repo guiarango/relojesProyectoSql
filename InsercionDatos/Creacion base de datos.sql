@@ -92,6 +92,7 @@ CREATE TABLE Products_Sizes
 CREATE TABLE Sales
 (
 	product_sold_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	quantity INT UNSIGNED NOT NULL,
     address VARCHAR(50) NOT NULL,
     id_product INT UNSIGNED NOT NULL,
 	id_color INT UNSIGNED NOT NULL,
