@@ -1,0 +1,11 @@
+﻿product_sold_id,quantity,address,id_product,id_color,id_size,id_user,creation_date,updated_at,deleted_at
+1,1,"Carrera 11",5,5,4,8,2022-09-26,NULL,NULL
+2,2,"Calle 45",9,7,3,8,2022-09-26,NULL,NULL
+3,3,"Carrera 91",1,5,4,6,2022-09-26,NULL,NULL
+4,1,"Calle 48",10,7,4,6,2022-09-26,NULL,NULL
+5,2,"Avenida 91",6,3,3,6,2022-09-26,NULL,NULL
+6,4,"Carrera 33",10,1,5,3,2022-09-26,NULL,NULL
+7,2,"Calle 52",5,9,3,6,2022-09-26,NULL,NULL
+8,3,"Avenida 30",3,4,2,6,2022-09-26,NULL,NULL
+9,1,"Calle 6",4,10,5,7,2022-09-26,NULL,NULL
+10,1,"Carrera 69",8,2,4,2,2022-09-26,NULL,NULL
